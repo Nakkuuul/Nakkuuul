@@ -1,14 +1,41 @@
-<h1 align="center">Hi 👋, I'm Nakul Thakur</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<div align="center">
 
-- 👨‍💻 All of my projects are available at <a href="https://projects.nakulthakur.com" target="_blank"><b>projects.nakulthakur.com</b></a>
+# Hi, I'm Nakul Thakur
 
-- 📝 I regularly write articles on <a href="https://blog.nakulthakur.com" target="_blank"><b>blog.nakulthakur.com</b></a>
+**Founder & Full-Stack Engineer**
 
-- 💬 Ask me about **react, angular, node & express**
+I build products end to end — from the database and the API to the apps people actually touch. I care about clean architecture, systems that hold up under real-world load, and code that's easy to reason about long after it ships.
 
-- 📫 How to reach me **workfornakul@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Nakkuuul)
+[![X](https://img.shields.io/badge/@Nakkuuul-000000?style=flat-square&logo=x&logoColor=white)](https://www.twitter.com/Nakkuuul)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:workfornakul@gmail.com)
 
-- 📄 Know about my experiences <a href="https://www.nakulthakur.com/resume" target="_blank"><b>www.nakulthakur.com/resume</b></a>
+</div>
 
-- ⚡ Fun fact **One thing I cannot live without is Code**
+---
+
+### About
+
+- I work across the stack — web, mobile, backend, and infrastructure.
+- I like building things properly: solid foundations over quick hacks.
+- Always learning something new and going deep on the fundamentals.
+- Happy to talk shop about architecture, design, and developer experience.
+
+### Tech I work with
+
+```text
+Languages     Go · TypeScript · JavaScript · Python · Dart · Kotlin
+Frontend      React · Next.js · Tailwind · Flutter
+Backend       Node.js · Express · Go · REST · WebSockets
+Data          PostgreSQL · Redis
+Tools         Docker · Git · CI/CD · Cloud
+```
+
+---
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakkuuul&show_icons=true&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakkuuul&layout=compact&hide_border=true)
+
+</div>
