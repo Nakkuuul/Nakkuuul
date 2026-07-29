@@ -10,6 +10,17 @@ I build products end to end, from the database and the API to the apps people us
 
 Building the trading platform at [Sapphire Broking](https://sapphirebroking.com), an online stock brokerage in India. Day to day that means market data coming in, orders going out, and the client apps people place them from.
 
+```mermaid
+flowchart LR
+    exchange([Exchange]) --> feed[Feed handler]
+    feed --> fanout[Fan out]
+    fanout --> clients[Web and mobile]
+    clients --> risk[Risk and routing]
+    risk -->|orders| exchange
+```
+
+<sub>Matching happens at the exchange, not here.</sub>
+
 Trading software fails in ways that are expensive and public. That raises the bar on correctness and latency considerably.
 
 ### Interests
