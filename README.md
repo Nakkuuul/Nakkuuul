@@ -2,27 +2,25 @@
 
 **Founder and Full-Stack Engineer**
 
-I build products end to end, from the schema and the API to the apps people actually touch.
+I build products end to end, from the database and the API to the apps people use.
 
 <sub>Nagpur, India (UTC+5:30)&nbsp;·&nbsp;Writing software since 2019</sub>
 
-### Now
+### Sapphire Broking
 
-I founded [Sapphire Broking](https://sapphirebroking.com), an online stock brokerage in India, and I build its trading platform. That means market data coming in, orders going out, and the client apps people place them from.
+Building the trading platform at [Sapphire Broking](https://sapphirebroking.com), an online stock brokerage in India. Day to day that means market data coming in, orders going out, and the client apps people place them from.
 
-In that domain correctness and latency have to be designed in from the start, which is most of why I find it worth doing.
+Trading software fails in ways that are expensive and public. That raises the bar on correctness and latency considerably.
 
-### What I go deep on
+### Interests
 
-Reliability and latency: what a system does under load, and what it does when something it depends on stops answering. Those questions keep pulling me a level down, into concurrency, networking, and the data path. Fundamentals age slowly, which makes them the best place to spend study time.
+What a system does under load, and what it does when a dependency stops answering. Those questions keep pulling me a level down, into concurrency, networking, and the data path. There is a lot left to learn there, which is most of the appeal.
 
-### How I build
+### How I work
 
-Most of what decides whether a product holds up is settled early, in how the data is modelled and where the boundaries between the parts are drawn, so that is where I start. Everything after that is a matter of keeping those boundaries honest.
+I start with the data model and the boundaries between the parts, because those are the decisions that get expensive to change later.
 
-**Modules with edges.** Narrow interfaces, explicit dependencies, no ambient state. The real test of a module is whether you can delete it and predict exactly what breaks.
-
-**Written to be read.** Whoever opens this code in a year, usually me, has far less context than I have right now.
+I like small modules with narrow interfaces and explicit dependencies. The test I apply is whether I can delete one and predict exactly what breaks. When I cannot, the seams are usually in the wrong place.
 
 ### Stack
 
@@ -33,10 +31,10 @@ Most of what decides whether a product holds up is settled early, in how the dat
 **Data**&nbsp;&nbsp;PostgreSQL · Redis<br>
 **Platform**&nbsp;&nbsp;Docker · Linux · Git · CI/CD · Cloud
 
-A stack is a set of tools, not an identity. Which one comes out of the drawer depends on what the problem is asking for.
+Tools I reach for most often.
 
 ### Contact
 
-Open to conversation about architecture, systems design, and developer experience. Email is the fastest route.
+Always glad to talk about architecture, systems design, and developer experience.
 
-[**Email**](mailto:workfornakul@gmail.com)&nbsp;·&nbsp;[LinkedIn](https://www.linkedin.com/in/Nakkuuul)&nbsp;·&nbsp;[X](https://x.com/Nakkuuul)
+[Email](mailto:workfornakul@gmail.com)&nbsp;·&nbsp;[LinkedIn](https://www.linkedin.com/in/Nakkuuul)&nbsp;·&nbsp;[X](https://x.com/Nakkuuul)
